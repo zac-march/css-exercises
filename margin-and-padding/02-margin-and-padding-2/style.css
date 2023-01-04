@@ -17,10 +17,7 @@ body {
 }
 
 .content {
-  padding-left: 16px;
-  padding-right: 16px;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  padding: 16px 8px;
 }
 
 .title, .content{
@@ -39,9 +36,6 @@ button {
   background: white;
   border: 1px solid #eee;
   display: block;
-  margin: auto;
-  padding-left: 24px;
-  padding-right: 24px;
-  padding-top: 8px;
-  padding-bottom: 8px;
+  margin: 0 auto;
+  padding: 8px 24px;
 }
